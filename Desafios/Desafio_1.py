@@ -8,18 +8,8 @@ b = 20
 
 a, b = b, a # Variável "a" se torna "b" e "b" se torna variável "a". Desta forma trocando os valores 
 
-# Agora crie duas variáveis onde receberá um valor do tipo string e inverta os valores das variáveis
-
-Carro = "vermelho"
-Casa = "branca"
-
-# Invertendo valores strings
-carro, casa = Casa, Carro
-
 print('a =', a)
 print('b =', b)
-print('carro ='.lower(), carro) # imprima a palavra "carro" em letra minuscula.
-print('casa ='.upper(), casa) # imprima a palavra "casa" em letra maiúscula.
 
 
 

@@ -4,10 +4,10 @@
 
 # Substitua a palavra "World!" por "Mundo!".
 
-# Converta a frase para letras maiúsculas e imprima.
+# Converta a frase.
 
 frase = "Hello World!"
 
 frase = frase.replace('World!', 'Mundo!')
 
-print(frase.upper())
+print(frase)
